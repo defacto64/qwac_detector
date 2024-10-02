@@ -1,5 +1,5 @@
-# qwac_checker
-QWAC Checker - An Experimental WebExtension to detect and display 2-QWACs (per ETSI 119 411-5).
+# qwac_handler
+QWAC Checker - An Experimental WebExtension to detect, validate, and display 1-QWACs (per ETSI 119 411-5).
 
 **This is NOT production-grade software!**
 
