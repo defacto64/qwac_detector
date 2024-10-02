@@ -1,5 +1,5 @@
 # qwac_handler
-QWAC Handler - An Experimental WebExtension to detect, validate, and display 1-QWACs (per ETSI 119 411-5).
+QWAC Handler - An Experimental WebExtension to detect, validate, and display QWACs according to Approach #1 of ETSI 119 411-5.
 
 **This is NOT production-grade software!**
 
