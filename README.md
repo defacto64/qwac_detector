@@ -21,5 +21,6 @@ WARNING: this WebExtension only works with **Firefox** because I could not find 
 ## Credits
 This WebExtensions uses the following third-party libraries and/or services:
 * The PKI.js library (https://pkijs.org)
+* The PV Certificate Viewer (https://github.com/PeculiarVentures/pv-certificates-viewer)
 * The Trusted List Browser's API (https://eidas.ec.europa.eu/efda/swagger-ui/index.html)
 
