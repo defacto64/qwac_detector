@@ -13,4 +13,7 @@ WARNING: this WebExtension only works with **Firefox** because I could not find 
 aaaa
 
 ## Credits
-aaaa
+This WebExtensions exploits the following third-party libraries and/or services:
+* The PKI.js library (https://pkijs.org)
+* The Trusted List Browser's API (https://eidas.ec.europa.eu/efda/swagger-ui/index.html)
+
