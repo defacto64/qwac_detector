@@ -1,7 +1,7 @@
 # QWAC Handler
 An experimental WebExtension to detect, validate, and display QWACs (Qualified Website Authentication Certificates) according to Approach #1 of ETSI TS 119 411-5.
 
-⚠**This is NOT production-grade software!**
+⚠<font colod="blue">**This is NOT production-grade software!**</font>
 
 I developed this WebExtension in (some of) my spare time, __just for fun__.
 
