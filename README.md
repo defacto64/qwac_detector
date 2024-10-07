@@ -8,3 +8,9 @@ I developed this WebExtension in (some of) my spare time, __just for fun__.
 This software is NOT bug-free, is NOT supported, and is NOT optimized. It may NOT be accurate or reliable. I did NOT care about privacy issues. I did NOT follow any software engineering methodology. This software may cause your browser to become unresponsive or to crash. If you want to use it, or just give it a try, you do it AT YOUR OWN RISK.
 
 WARNING: this WebExtension only works with **Firefox** because I could not find a _reasonable_ way to obtain the web server's TLS certificate from Chrome or Safari. If you know one (that I have not yet considered), let me know too.
+
+## Specifications
+aaaa
+
+## Credits
+aaaa
