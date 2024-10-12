@@ -7,7 +7,7 @@ I developed this WebExtension in (some of) my spare time, __just for fun__.
 
 This software is NOT bug-free, is NOT supported, and is NOT optimized. It may NOT be accurate or reliable. I did NOT care about privacy issues. I did NOT follow any software engineering methodology. This software may cause your browser to become unresponsive or to crash. If you want to use it, or just give it a try, you do it AT YOUR OWN RISK.
 
-WARNING: this WebExtension only works with **Firefox** because I could not find a _reasonable_ way to obtain the web server's TLS certificate from Chrome or Safari. If you know one (that I have not yet considered), let me know too.
+WARNING: To date, this WebExtension only works with **Firefox** . I may also work on a version compatible with Chrome/Edge, sooner or later, but I am not sure (I also have other things to do in my spare time).
 
 ## Specifications
 * Grab the web server's TLS certificate (only for the main web page).
