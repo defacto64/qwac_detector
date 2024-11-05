@@ -10,7 +10,7 @@ This software is NOT bug-free, is NOT supported, and is NOT optimized. It may NO
 To date, this WebExtension only works with Chromium-based browsers. I also developed a similar add-on for Firefox, but for now I am not sharing it.
 
 ## Specifications
-* Grab the web server's TLS certificate (only for the main web page).
+* Retrieve the web server's TLS certificate (only for the main frame).
 * Parse the certificate and extract some basic information from it.
 * Check if the certificate is a QWAC (based on QcStatements).
 * Lookup certificate into the EU Trust Services Lists.
