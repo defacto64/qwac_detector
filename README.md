@@ -1,13 +1,13 @@
-# QWAC Handler
+# QWAC Detector
 An experimental WebExtension to detect, validate, and display QWACs (Qualified Website Authentication Certificates) according to Approach #1 of ETSI TS 119 411-5.
 
 ⚠**This is NOT production-grade software!**
 
 I developed this WebExtension in (some of) my spare time, __just for fun__.
 
-This software is NOT bug-free, is NOT supported, and is NOT optimized. It may NOT be accurate or reliable. I did NOT care about privacy issues. I did NOT follow any software engineering methodology. This software may cause your browser to become unresponsive or to crash. If you want to use it, or just give it a try, you do it AT YOUR OWN RISK.
+This software is NOT bug-free, is NOT supported, and is NOT optimized. It may NOT always be accurate or reliable. I did NOT care about privacy issues. I did NOT follow any software engineering methodology. This software may cause your browser to become unresponsive or to crash. If you decide to use it, or just give it a try, you do it AT YOUR OWN RISK.
 
-WARNING: To date, this WebExtension only works with **Firefox** . I may also work on a version compatible with Chrome/Edge, sooner or later, but I am not sure (I also have other things to do in my spare time).
+To date, this WebExtension only works with Chromium-based browsers. I also developed a similar add-on for Firefox, but for now I am not sharing it.
 
 ## Specifications
 * Grab the web server's TLS certificate (only for the main web page).
