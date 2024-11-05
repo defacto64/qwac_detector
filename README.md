@@ -16,7 +16,7 @@ To date, this WebExtension only works with Chromium-based browsers. I also devel
 * Lookup certificate into the EU Trust Services Lists.
 * Check if the issuing CA is an active QTSP enabled for QWACs.
 * Make QWAC information available to the popup window.
-* Enable the clickable EU Trust Mark icon in address bar.
+* Enable the clickable EU Trust Mark icon in the toolbar.
 
 ## Credits
 This WebExtensions uses the following third-party libraries and/or services:
