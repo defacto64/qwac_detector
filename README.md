@@ -5,7 +5,7 @@ An experimental WebExtension to detect, validate, and display QWACs (Qualified W
 
 I developed this WebExtension in (some of) my spare time, __just for fun__.
 
-This software is NOT bug-free, is NOT optimized, and is NOT supported. It may NOT always be accurate or reliable. I did NOT care about privacy issues (but I don't think there are any). This software may cause your browser to become unresponsive or to crash. And it could get even worse if it's your bad day! Of course I'm exaggerating, but you never know. If you decide to use this software, or just give it a try, you do it AT YOUR OWN RISK.
+This software is NOT bug-free, is NOT optimized, and is NOT supported. It may NOT always be accurate or reliable. I did NOT care about privacy issues (but I don't think there are any, at least from my point of view). This software may cause your browser to become unresponsive or to crash. And it could get even worse if it's your bad day! Of course I'm exaggerating, but you never know. If you decide to use this software, or just give it a try, you do it AT YOUR OWN RISK.
 
 
 ## Compatible browsers
