@@ -15,7 +15,7 @@ To date, this WebExtension only works with Chromium-based browsers. I also devel
 ## Compatibile operating systems
 
 For now, this WebExtension only works under Windows 10 and 11. Do not know if it works under previous versions, but I expect it to.
-If I have time and desire, maybe later I will also publish the version for Linux and possibly for macOS.
+If I have time and desire, maybe later I will try to port it to Linux and possibly to macOS.
 
 ## Specifications
 * Retrieve the web server's TLS certificate (only for the main frame).
