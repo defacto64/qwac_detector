@@ -21,8 +21,8 @@ To date, this WebExtension only works with Chromium-based browsers. I also devel
 ## How to install
 You can install this WebExtension by opening the following link: xxxxxxxxxxx
 
-However,  this WebExtension only works in conjunction with the GetServerCert native application, which you can downbload from here.
-Save the GetServerCert.exe wherever you like on yur PC. If you later move it somewhere else, you'll have to re-register it.
+However,  this WebExtension only works in conjunction with the GetServerCert native application, which you can downbload from here. Save the GetServerCert.exe wherever you like on yur PC. If you later move it somewhere else, you'll have to re-register it.
+
 In order to register the GetServerCert native application, so the browser will find it, open PowerShell and change directory to where you put the .exe file, the give the following command:
 
 powershell.exe -ExecutionPolicy Bypass -File setup_native_host.ps1
