@@ -1,1 +1,1 @@
-In order to register the GetServerCert native application, so the browser will find it, open the bash shell and change directory to where you put the executable file, then run the accompanying script (it does not rquire root).
+In order to register the GetServerCert native application, so the browser will find it, open the bash shell and change directory to where you put the executable file, then run the accompanying script (it does not require root).
