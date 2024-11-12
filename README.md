@@ -32,7 +32,7 @@ If I have time and desire, maybe later I will try to port it to macOS as well.
 ## How to install
 You can install this WebExtension by opening the following link: xxxxxxxxxxx
 
-However, this WebExtension only works in conjunction with the **GetServerCert** native application, which you can download from the [native](native) subdirectory of this project. Save the GetServerCert executable wherever you like on your PC together with the accompanying PowerShell script. If you later move it somewhere else, you'll have to re-register it.
+However, this WebExtension only works in conjunction with the **GetServerCert** native application, which you can download from the [native](native) subdirectory of this project. Save the GetServerCert executable wherever you like on your PC together with the accompanying registration script, then run this latter. If you later move the GetServerCert executable somewhere else, you'll have to re-register it.
 
 In order to register the GetServerCert native application, so the browser will find it, open the PowerShell prompt and change directory to where you put the .exe file, then give the following command:
 ```pwsh
