@@ -10,7 +10,9 @@ This software is NOT supported. It MAY have bugs. If you decide to use this soft
 
 ## Compatible browsers
 
-To date, this WebExtension only works with Chromium-based browsers. I also developed a similar add-on for Firefox, but for now I am not sharing it.
+To date, this WebExtension only works with Chromium-based browsers such as Google Chrome and Microsoft Edge. 
+
+I also developed a similar add-on for Firefox, but for now I am not sharing it.
 
 ## Compatibile operating systems
 
