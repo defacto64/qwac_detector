@@ -8,7 +8,8 @@ fi
 browser_name="$1"
 
 # Extension ID
-EXTENSION_ID="bdgjbjpdfpejffidohniaomfcekgodbo"
+EXTENSION_ID1="bdgjbjpdfpejffidohniaomfcekgodbo"
+EXTENSION_ID2="kkeppdgmekpkohgdppcejgfbojdkdkcb"
 
 # Name of the native host executable
 EXECUTABLE_NAME="GetServerCert"
@@ -24,7 +25,8 @@ MANIFEST_CONTENT="{
   \"path\": \"$(readlink -f $EXECUTABLE_NAME)\",
   \"type\": \"stdio\",
   \"allowed_origins\": [
-    \"chrome-extension://$EXTENSION_ID/\"
+    \"chrome-extension://$EXTENSION_ID1/\",
+    \"chrome-extension://$EXTENSION_ID2/\"
   ]
 }"
 
