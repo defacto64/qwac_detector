@@ -15,6 +15,7 @@ $manifestContent = @{
     type = "stdio"
     allowed_origins = @(
         "chrome-extension://bdgjbjpdfpejffidohniaomfcekgodbo/"
+        "chrome-extension://kkeppdgmekpkohgdppcejgfbojdkdkcb/"
     )
 } | ConvertTo-Json
 
