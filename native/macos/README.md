@@ -5,4 +5,4 @@ This is a **false positive**, however!
 
 To fix this, you need to explicitly allow GetServerCert to run as shown in the following screenshot (just click on `Allow Anyway`). After that, everything should work fine:
 
-![macos_warning2](https://github.com/user-attachments/assets/e93d6ec4-9f9f-4f13-8d6e-5609733703fa)
+<img src="https://github.com/user-attachments/assets/e93d6ec4-9f9f-4f13-8d6e-5609733703fa" width="50%">
