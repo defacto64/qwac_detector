@@ -12,15 +12,16 @@ This software is NOT supported. It MAY have bugs. If you decide to use this soft
 
 To date, this WebExtension only works with Chromium-based browsers such as Google Chrome and Microsoft Edge. 
 
+Porting it to Apple Safari is a bit of a pain and I don't feel like spending time on it right now.
+
 I also developed a similar add-on for Firefox, but for now I am not sharing it.
 
 ## Compatibile operating systems
 
-For now, this WebExtension works under:
+This WebExtension works under:
 * Windows 10 and 11 (do not know if it works under previous versions, but I expect it to)
-* Linux (e.g. Ubuntu)
-
-If I have time and desire, maybe later I will try to port it to macOS as well.
+* Apple macOS v12 (Monterey) or newer (but it should work on macOS v11 as well)
+* Linux (e.g. Ubuntu) - not sure about the minimum kernel version
 
 ## Specifications
 * Retrieve the web server's TLS certificate (only for the main frame).
