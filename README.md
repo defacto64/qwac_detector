@@ -19,8 +19,8 @@ I also developed a similar add-on for Firefox, but for now I am not sharing it.
 ## Compatibile operating systems
 
 This WebExtension works under:
-* Windows 10 and 11 (it might work under other versions, too, but I did not test)
-* Apple macOS v12 (Monterey) or newer (but it should work on macOS v11 as well)
+* Windows 10 and 11 (it might work on other versions, too, but I did not test)
+* Apple macOS v12 (Monterey) or newer, but it should work on macOS v11 as well
 * Linux (e.g. Ubuntu) - kernel version 2.6 or newer
 
 ## Specifications
