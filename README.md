@@ -19,7 +19,7 @@ I also developed a similar add-on for Firefox, but for now I am not sharing it.
 ## Compatibile operating systems
 
 This WebExtension works under:
-* Windows 10 and 11 (do not know if it works under previous versions, but I expect it to)
+* Windows 10 and 11 (it might work under other versions, too, but I did not test)
 * Apple macOS v12 (Monterey) or newer (but it should work on macOS v11 as well)
 * Linux (e.g. Ubuntu) - not sure about the minimum kernel version
 
