@@ -10,7 +10,7 @@ This software is NOT supported. It MAY have bugs. If you decide to use this soft
 
 ## Compatible browsers
 
-To date, this WebExtension only works with Chromium-based browsers such as Google Chrome and Microsoft Edge. 
+To date, this WebExtension only works with Chromium-based browsers such as Google Chrome, Chromium, and Microsoft Edge. 
 
 Porting it to Apple Safari is a bit of a pain and I don't feel like spending time on it right now.
 
