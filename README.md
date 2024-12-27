@@ -12,6 +12,8 @@ This software is NOT supported. It MAY have bugs. If you decide to use this soft
 
 To date, this WebExtension only works with Chromium-based browsers such as Google Chrome, Chromium, and Microsoft Edge. 
 
+Note well: sandboxed installations (i.e., snap-based) of the above browsers are currently NOT supported.
+
 Porting it to Apple Safari is a bit of a pain and I don't feel like spending time on it right now.
 
 I also developed a similar add-on for Firefox, but for now I am not sharing it.
